@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kursach_DB", "Kursach_DB\Kursach_DB.csproj", "{AF5DB589-02C5-40EE-B0D3-943DB99330EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF5DB589-02C5-40EE-B0D3-943DB99330EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF5DB589-02C5-40EE-B0D3-943DB99330EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF5DB589-02C5-40EE-B0D3-943DB99330EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF5DB589-02C5-40EE-B0D3-943DB99330EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFE5D376-D2AB-4A9B-91BF-DB03E627D545}
+	EndGlobalSection
+EndGlobal
